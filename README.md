@@ -31,5 +31,8 @@ EDA was carried out to answer some key questions:
 1. **What is the gender distribution in the organization according to regions?**
    
 2. **Which region and departments should be the main focus based on gender pay gap?**
-
+- **Region: South West**
+- **Departments: Research and Development, Human Resources and Legal**
+The management needs to focus on these departments and the southwest region because they are the lowest paid.
 3. **Does Palmoria group meets the requirements which requires manufacturing companiees to pay employees a minimum of $90,000?**
+  **No**, they don't. 
