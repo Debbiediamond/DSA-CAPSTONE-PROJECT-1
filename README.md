@@ -28,11 +28,16 @@ At the initial stage of data cleaning, the following actions were performed:
 ## 🔦📈 Exploratory Data Analysis 
 ### 🔍 Key Business Questions Answered 
 EDA was carried out to answer some key questions:
-1. **What is the gender distribution in the organization according to regions?**
-   
-2. **Which region and departments should be the main focus based on gender pay gap?**
+1. **Which region and departments should be the main focus based on gender pay gap?**
 - **Region: South West**
 - **Departments: Research and Development, Human Resources and Legal**
 The management needs to focus on these departments and the southwest region because they are the lowest paid.
-3. **Does Palmoria group meets the requirements which requires manufacturing companiees to pay employees a minimum of $90,000?**
-  **No**, they don't. 
+2. **Does Palmoria group meets the requirements which requires manufacturing companiees to pay employees a minimum of $90,000?**
+  -**No**, they don't.
+3. **Calculate the total amount to be paid to individual employees (salary inclusive of 
+bonus)
+- **$71.88M**
+## Data Analysis and Visual Insights 
+The following analyses were carried out to create visuals and charts for insights. They are
+**Gender distribution in the organization distiled to regions**
+
