@@ -1,7 +1,7 @@
 # DSA-CAPSTONE-PROJECT-1
 An analysis project carried out on Palmoria Group HR data and submitted to Incubator hub for the Digital Skill up Africa (DSA) Data Analysis training.
 
-### Analyst: DebbieDiamond 
+### 👩‍💻Analyst: DebbieDiamond 
 ## Project Topic:🗜️Palmoria Group HR Analysis
 ### 📑Abstract:
 This analysis examines the HR data of Palmoria Group, a Nigerian manufacturing company facing gender equality issues and recently labeled by the media as a 'Patriarchal Manufacturing Company.' Built with Power BI, the report presents a clean dashboard with calculated measures, visuals, and charts that provide recommendations for management's attention.
@@ -37,7 +37,7 @@ EDA was carried out to answer some key questions:
 3. **Calculate the total amount to be paid to individual employees (salary inclusive of 
 bonus)**
 - **$71.88M**
-## Data Analysis and Visual Insights 
+## 🔍📈 Data Analysis and Visual Insights 
 The following analyses were carried out to create visuals and charts for insights. They are
 1. **Gender distribution in the organization distiled to regions**
  ``` DAX
@@ -74,10 +74,11 @@ else if [Salary] < 120000 then "110001-120000"
 else null
 )
 ```
-## Analytics Dashboards
+## 📊 Analytics Dashboards
 ![Palmoria 1](https://github.com/user-attachments/assets/2653fbfd-5652-49e1-8a93-c4025435c786)
 ![Palmoria 2](https://github.com/user-attachments/assets/3917ec8e-463b-4024-a10e-ca4defabe1d0)
-## Conclusion
+## 📝 Conclusion
 This HR analysis of Palmoria Group shows a balanced gender distribution and slightly higher average ratings for females. While the total sum of female salaries is higher, there is a true gender pay gap (average individual earnings). The most critical finding is that 654 out of 946 employees currently earn below the new $90,000 minimum salary regulation, indicating Palmoria Group does not meet this requirement and needs urgent financial and strategic adjustments.
 
-
+*✍️ Reported by Deborah Adegbemile*
+*🗓️ Date: July, 2025*
