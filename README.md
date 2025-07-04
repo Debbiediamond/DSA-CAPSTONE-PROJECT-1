@@ -81,4 +81,5 @@ else null
 This HR analysis of Palmoria Group shows a balanced gender distribution and slightly higher average ratings for females. While the total sum of female salaries is higher, there is a true gender pay gap (average individual earnings). The most critical finding is that 654 out of 946 employees currently earn below the new $90,000 minimum salary regulation, indicating Palmoria Group does not meet this requirement and needs urgent financial and strategic adjustments.
 
 *✍️ Reported by Deborah Adegbemile*
+
 *🗓️ Date: July, 2025*
